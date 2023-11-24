@@ -1,7 +1,7 @@
 # <h1 align="center">**Hello there, I'm Marcin**:wave:<h1>  
 Currently 20yo Student of CS at AGH UST IET :sunglasses:  
 Hapilly not yet depressed 🤠🤠  
-New to programming :computer:
+New to programming :computer: <br>
 Hate ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
