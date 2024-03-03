@@ -2,7 +2,7 @@
 Currently 21yo Student of CS at AGH UST IET :sunglasses:  
 Hapilly not yet depressed 🤠🤠  
 Kinda new to programming :computer: <br>
-Hate ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+I thought I hated ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) but now I'm Imperative Programmer
 
 
 # Tech Skills 👨‍💻
