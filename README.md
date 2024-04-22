@@ -19,5 +19,5 @@ More than Student: <br>
 
 # Some Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fisieekk&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fisieekk&size_weight=0.5&count_weight=0.5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fisieekk&size_weight=0.6&count_weight=0.5&theme=radical)
 
