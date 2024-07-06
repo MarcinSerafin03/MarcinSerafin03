@@ -12,7 +12,7 @@
   I thought I hated <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=17 width=17 /> but now I'm Imperative Programmer
 
 
-# Tech Skills 👨‍💻
+## Tech Skills 👨‍💻
   Student: <br>
     ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,12 +24,18 @@
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   
 
-# Some (better than first) Projects 
+## Some (better than first) Projects 
 
 - Simple Chess Game with Stockfish bot implementation [ChessGame](https://github.com/Fisieekk/ChessGame) <br>
 - Not quite beautiful website with much better Mongo DataBase [Restaurant Mongo DataBase](https://github.com/Fisieekk/Restaurant_Mongo_DataBase)
 - Stochastic Minimization in R [Stochastic Minimization](https://github.com/Fisieekk/Stochastic_Minimization)
 - Java-Gradle Animal Environment [Darwin World](https://github.com/Fisieekk/Java_Gradle_Environment-Darwin_World)
 - Finite element method in R [FEM](https://github.com/Fisieekk/FEM_Differential_calculus-R)
+
+## Repositories for Courses (Yes, you can copy code, my friends)
+
+- MOwNiT - Computational methods in science and technology [MOWNiT](https://github.com/Fisieekk/MOwNiT)
+- SysOpy - Operating Systems [SysOps](https://github.com/Fisieekk/SysOps)
+- PO - Object Oriented Designd [OOD](https://github.com/Fisieekk/Object_Oriented_Design)
 
 </body>
