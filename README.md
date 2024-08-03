@@ -26,7 +26,8 @@
 
 ## Some (better than first) Projects 
 
-- Simple Chess Game with Stockfish bot implementation [ChessGame](https://github.com/Fisieekk/ChessGame) <br>
+- First Portfolio-CV Website [Portfolio-CV](https://github.com/Fisieekk/Portfolio-CV)
+- Simple Chess Game with Stockfish bot implementation [ChessGame](https://github.com/Fisieekk/ChessGame)
 - Not quite beautiful website with much better Mongo DataBase [Restaurant Mongo DataBase](https://github.com/Fisieekk/Restaurant_Mongo_DataBase)
 - Stochastic Minimization in R [Stochastic Minimization](https://github.com/Fisieekk/Stochastic_Minimization)
 - Java-Gradle Animal Environment [Darwin World](https://github.com/Fisieekk/Java_Gradle_Environment-Darwin_World)
