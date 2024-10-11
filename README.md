@@ -26,17 +26,20 @@
 
 ## Some (better than first) Projects 
 
-- First Portfolio-CV Website [Portfolio-CV](https://github.com/Fisieekk/Portfolio-CV)
-- Simple Chess Game with Stockfish bot implementation [ChessGame](https://github.com/Fisieekk/ChessGame)
-- Not quite beautiful website with much better Mongo DataBase [Restaurant Mongo DataBase](https://github.com/Fisieekk/Restaurant_Mongo_DataBase)
-- Stochastic Minimization in R [Stochastic Minimization](https://github.com/Fisieekk/Stochastic_Minimization)
-- Java-Gradle Animal Environment [Darwin World](https://github.com/Fisieekk/Java_Gradle_Environment-Darwin_World)
-- Finite element method in R [FEM](https://github.com/Fisieekk/FEM_Differential_calculus-R)
+- First Portfolio-CV Website [Portfolio-CV](https://github.com/MarcinSerafin03/Portfolio-CV)
+- Simple Chess Game with Stockfish bot implementation [ChessGame](https://github.com/MarcinSerafin03/ChessGame)
+- Not quite beautiful website with much better Mongo DataBase [Restaurant Mongo DataBase](https://github.com/MarcinSerafin03/Restaurant_Mongo_DataBase)
+- Stochastic Minimization in R [Stochastic Minimization](https://github.com/MarcinSerafin03/Stochastic_Minimization)
+- Java-Gradle Animal Environment [Darwin World](https://github.com/MarcinSerafin03/Java_Gradle_Environment-Darwin_World)
+- Finite element method in R [FEM](https://github.com/MarcinSerafin03/FEM_Differential_calculus-R)
 
-## Repositories for Courses (Yes, you can copy code, my friends)
+## Repositories for Courses (Yes, you can copy code, my friends but you need to give the Star)
 
-- MOwNiT - Computational methods in science and technology [MOWNiT](https://github.com/Fisieekk/MOwNiT)
-- SysOpy - Operating Systems [SysOps](https://github.com/Fisieekk/SysOps)
-- PO - Object Oriented Designd [OOD](https://github.com/Fisieekk/Object_Oriented_Design)
+- MOwNiT - Computational methods in science and technology [MOWNiT](https://github.com/MarcinSerafin03/MOwNiT)
+- SysOpy - Operating Systems [SysOps](https://github.com/MarcinSerafin03/SysOps)
+- PO - Object Oriented Designd [OOD](https://github.com/MarcinSerafin03/Object_Oriented_Design)
+- TO - Object Oriented Technologies [OOT](https://github.com/MarcinSerafin03/OOT)
+- TW - Theory of Concurrency [ToC](https://github.com/MarcinSerafin03/ToC)
+- PSI - Basics of Artificial Inteligence [BAI](https://github.com/MarcinSerafin03/BAI)
 
 </body>
