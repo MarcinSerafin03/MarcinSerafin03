@@ -6,7 +6,7 @@
 <body>
   
 # <h1 align="center">**Hello there, I'm Marcin**:wave:<h1>  
-  Currently 21yo Student of CS at AGH University of Krakow INF
+  Currently 21yo Student of CS at AGH University of Krakow INF <br>
   Hapilly not yet depressed 🤠🤠  
   I thought I hated <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=17 width=17 /> then I loved it but became an object-oriented programmer 
 
