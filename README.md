@@ -6,10 +6,9 @@
 <body>
   
 # <h1 align="center">**Hello there, I'm Marcin**:wave:<h1>  
-  Currently 21yo Student of CS at AGH UST IET :sunglasses:  
+  Currently 21yo Student of CS at AGH University of Krakow INF
   Hapilly not yet depressed 🤠🤠  
-  Kinda not new coder :computer: <br>
-  I thought I hated <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=17 width=17 /> but now I'm Imperative Programmer
+  I thought I hated <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=17 width=17 /> then I loved it but became an object-oriented programmer 
 
 
 ## Tech Skills 👨‍💻
