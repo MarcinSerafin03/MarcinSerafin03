@@ -37,7 +37,7 @@
 
 ## Repositories for Courses (Yes, you can copy code, my friends but you need to give the Star)
 ### Semester IV
-- MOwNiT [computational-methods-in-science-and-technology](https://github.com/MarcinSerafin03/computational-methods-in-science-and-technology)
+- MOwNiT - [computational-methods-in-science-and-technology](https://github.com/MarcinSerafin03/computational-methods-in-science-and-technology)
 - SysOpy - [operating-systems](https://github.com/MarcinSerafin03/operating-systems)
 - PO - [object-oriented-design](https://github.com/MarcinSerafin03/object-oriented-design)
 
